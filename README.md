@@ -1,7 +1,6 @@
-# Projeto UniJobs &ndash; FrontEnd
+<p align="center"><img src="src/imgs/UniJobsBlue.png"></p>
 
-<div style="background-color: #0c3a7b">
-<img src="src/imgs/UniJobs.svg" />
-</div>
+#App FrontEnd
+
 
 ## Objetivo
